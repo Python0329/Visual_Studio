@@ -150,6 +150,12 @@ namespace Variabler
             Console.WriteLine(Math.Sqrt(81));
             Console.WriteLine(Math.Cos((30 * (Math.PI)) / 180));
 
+
+
+
+
+            //hej deta var skoj
+
         }
     }
 }
